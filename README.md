@@ -1,5 +1,8 @@
 # 🏏 Cricket Match Tableau Dashboard
 
+![Cricket iMAGE 1](https://github.com/user-attachments/assets/1fb90b8b-9757-4d70-9a62-f61c6c6c863d)
+
+
 ## Introduction
 
 Cricket is a game of fine margins, and bowlers play a decisive role in shaping outcomes. The Best Bowlers Tableau Dashboard provides a data-driven perspective on the world’s greatest bowlers by analyzing their match performances, wicket-taking ability, and longevity in the sport. From the number of 5-wicket hauls to balls bowled and best match figures, this dashboard highlights the legends who dominated with the ball.
