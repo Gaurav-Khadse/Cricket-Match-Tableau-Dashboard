@@ -23,6 +23,10 @@ The Best Bowlers Tableau Dashboard aims to:
 - Provide a holistic summary of bowling legends across eras and nations.
 
 ## Dashboard
+
+[View on Tableau Public](https://public.tableau.com/views/CricketMatchProject_17558542018060/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
 <img width="1659" height="855" alt="Cricket matach Tableau Dash Board" src="https://github.com/user-attachments/assets/602dddba-9a67-4578-8e73-2716facf8a40" />
 
 
