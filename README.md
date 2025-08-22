@@ -22,6 +22,10 @@ The Best Bowlers Tableau Dashboard aims to:
 
 - Provide a holistic summary of bowling legends across eras and nations.
 
+## Dashboard
+<img width="1659" height="855" alt="Cricket matach Tableau Dash Board" src="https://github.com/user-attachments/assets/602dddba-9a67-4578-8e73-2716facf8a40" />
+
+
 ## Key Insights 🔎
 
 - M Muralitharan (SL) dominates with 800 wickets, 67 five-wicket hauls, and 22 ten-wicket hauls.
