@@ -44,7 +44,8 @@ The Best Bowlers Tableau Dashboard aims to:
 
 - Tool Used: Tableau
 
-- Dataset Used: Historical Test cricket bowling performance dataset
+- Dataset Used: [Most Wicket in Cricket 200+](https://www.kaggle.com/datasets/muhammedtausif/most-wicket-in-cricket-200/code)
+
 
 - The dashboard employs multiple visualization techniques:
 
